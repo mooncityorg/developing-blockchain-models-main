@@ -1,0 +1,19 @@
+{
+  "name": "developing-blockchain-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/best-lucky1030/developing-blockchain-models.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/best-lucky1030/developing-blockchain-models/issues"
+  },
+  "homepage": "https://github.com/best-lucky1030/developing-blockchain-models#readme"
+}
